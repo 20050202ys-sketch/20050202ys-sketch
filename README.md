@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 你好，我是闫爽
 
-<!--
-**20050202ys-sketch/20050202ys-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> AI产品经理 / 内容产品经理方向求职者
 
-Here are some ideas to get you started:
+我拥有环境设计、广电媒体与 MCN IP 运营经历，熟悉内容从策划、生产、审核、发布到复盘的完整链路。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+目前关注 AI 在内容创作、创作者提效、智能审核和用户服务等场景中的落地应用，希望通过真实项目理解用户需求，并把复杂问题转化为清晰、可执行的产品方案。
+
+## ✦ 我正在关注
+
+- AIGC 内容创作与创作者效率工具
+- AI 产品的用户需求、产品流程与体验设计
+- Prompt 设计、结构化输出与生成结果评估
+- 内容产品的生产、分发、反馈与迭代
+
+## 🛠 能力与工具
+
+- **AI 产品**：需求拆解、用户洞察、产品方案、数据复盘
+- **内容运营**：选题策划、脚本撰写、内容排期、内容审核
+- **设计表达**：Photoshop、Illustrator、SketchUp、CAD
+- **内容制作**：Premiere、短视频与新闻素材处理
+- **办公协作**：Word、Excel、PowerPoint
+
+## 🎓 教育与经历
+
+- 北方工业大学｜环境设计｜本科在读
+- 北京抖知网络科技有限公司｜IP运营
+- 桂林市广播电视台｜新闻剪辑
+
+## 🔗 联系我
+
+- 📮 Email：3233654978@qq.com
+- 📞 Phone：15347144219
+- 🌐 个人网站：[yan-shuang-ai-product.pearly-fir-4287.chatgpt.site](https://yan-shuang-ai-product.pearly-fir-4287.chatgpt.site)
+
+欢迎交流 AI 产品、内容产品与创作者工具相关话题。
